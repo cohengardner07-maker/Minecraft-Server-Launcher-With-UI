@@ -1,7 +1,7 @@
 # Instructions:
 You must put the server main folders into the folder titled server that will be made upon running. (works with any server as long as they are launched with a .bat a .jar or a .sh).
 The .exe is Highly recommended the .py file is for people who want to inspect the code or etc. Let me know if anyone has problems with either
-<img width="1677" height="1001" alt="image" src="https://github.com/user-attachments/assets/186dfa9f-639a-4f11-94f6-7c17d72bbce7" />
+<img width="1679" height="1001" alt="image" src="https://github.com/user-attachments/assets/9fb8f745-9474-4337-ba42-53c8d35ec593" />
 📦 Server Panel (Tkinter)
 
 A simple Python-based server manager GUI for launching and controlling local server instances (e.g. Minecraft servers).
