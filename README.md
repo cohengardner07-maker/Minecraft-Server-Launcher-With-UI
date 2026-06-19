@@ -1,6 +1,6 @@
 # Instructions:
 You must put the server main folders into the folder titled server that will be made upon running. (works with any server as long as they are launched with a .bat a .jar or a .sh).
-The .exe is Highly recommended the .py file is for people who want to inspect the code or etc. Let me know if anyone has problems with either
+The .exe is Highly recommended for windows users the .py file is for people who want to inspect the code, runs servers on linux or etc. Let me know if anyone has problems with either
 <img width="1679" height="1001" alt="image" src="https://github.com/user-attachments/assets/9fb8f745-9474-4337-ba42-53c8d35ec593" />
 📦 Server Panel (Tkinter)
 
